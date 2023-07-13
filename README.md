@@ -1,70 +1,88 @@
-# Getting Started with Create React App
+# vocab list
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Available Scripts
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
-In the project directory, you can run:
+# Table of Contents
+1. [License MIT](#license-information)
+2. [Description](#application-description)
+3. [Installation](#installation-instructions)
+4. [Usage](#application-usage)
+5. [Languages Used](#languages-used)
+6. [Dependencies Used](#dependencies-used)
+7. [Contribution Guidelines](#contribution-guidelines)
+8. [Testing](#testing-instrutions)
+9. [Known Issues/Errors](#known-issues/errors)
+10. [Questions](#questions)
 
-### `npm start`
+# License Information
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+[MIT License](https://www.mit.edu/~amini/LICENSE.md) Documentation
 
-### `npm test`
+Please refer to license documentation for any questions regarding reusing 
+this software or any code within this application.
 
-Launches the test runner in the interactive watch mode.
+[Back to Top](#table-of-contents)
 
-### `npm run build`
+# Application Description
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+A vocabulary list dedicated to MERN stack applications
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+[Back to Top](#table-of-contents)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Installation Instructions
 
-### `npm run eject`
+git clone 
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+[Back to Top](#table-of-contents)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Application Usage
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+To guide and enhance student success.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+[Back to Top](#table-of-contents)
 
-## Learn More
+# Languages Used
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+quite a few
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+[Back to Top](#table-of-contents)
 
-### Code Splitting
+# Dependencies Used
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+tons
 
-### Analyzing the Bundle Size
+[Back to Top](#table-of-contents)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+# Contribution Guidelines
 
-### Making a Progressive Web App
+know some vocab? You should probably contribute.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+[Back to Top](#table-of-contents)
 
-### Advanced Configuration
+# Testing Instrutions
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+class npm run test
 
-### Deployment
+[Back to Top](#table-of-contents)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+# Known Issues/Errors
 
-### `npm run build` fails to minify
+not at the moment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# vocab-list
+[Back to Top](#table-of-contents)
+
+# Questions
+
+If you have any questions that have not been answered, please send me an email: na
+
+## Checkout My GitHub!
+
+[Back to Top](#table-of-contents)
+
+### [na](https://github.com/na)
+### [Live Application](na)
+### [GitHub Repository](https://github.com/sofiatejada/vocab-list)
