@@ -29,7 +29,7 @@ this software or any code within this application.
 
 # Application Description
 
-A vocabulary list dedicated to MERN stack applications
+A vocabulary list dedicated to MERN stack applications. This vocabulary list is dedicated to the students who strive to be more and are constantly pursuing challenges that help them grow as full-stack developers. 
 
 [Back to Top](#table-of-contents)
 
@@ -41,7 +41,7 @@ git clone
 
 # Application Usage
 
-To guide and enhance student success.
+To guide and enhance student success. You can use this application to gain a deep fundamental understanding of a variety of different terms. 
 
 [Back to Top](#table-of-contents)
 
