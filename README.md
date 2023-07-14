@@ -29,7 +29,7 @@ this software or any code within this application.
 
 # Application Description
 
-A vocabulary list dedicated to MERN stack applications
+A vocabulary list dedicated to MERN stack applications. This vocabulary list is dedicated to the students who strive to be more and are constantly pursuing challenges that help them grow as full-stack developers. 
 
 [Back to Top](#table-of-contents)
 
@@ -41,19 +41,47 @@ git clone
 
 # Application Usage
 
-To guide and enhance student success.
+To guide and enhance student success. You can use this application to gain a deep fundamental understanding of a variety of different terms. 
 
 [Back to Top](#table-of-contents)
 
 # Languages Used
 
-quite a few
+
+
 
 [Back to Top](#table-of-contents)
 
 # Dependencies Used
 
-tons
+>>"dependencies": {
+"@testing-library/jest-dom": "^5.16.5",
+"@testing-library/react": "^13.4.0",
+"@testing-library/user-event": "^13.5.0",
+"react": "^18.2.0",
+"react-dom": "^18.2.0",
+"react-scripts": "5.0.1",
+"web-vitals": "^2.1.4"
+}
+
+In order to fix an error this dependency was added. Error below.
+>>"devDependencies": {
+"@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+}
+
+Error in question
+
+>One of your dependencies, babel-preset-react-app, is importing the
+"@babel/plugin-proposal-private-property-in-object" package without
+declaring it in its dependencies. This is currently working because
+"@babel/plugin-proposal-private-property-in-object" is already in your
+node_modules folder for unrelated reasons, but it may break at any time.
+babel-preset-react-app is part of the create-react-app project, which
+is not maintianed anymore. It is thus unlikely that this bug will
+ever be fixed. Add "@babel/plugin-proposal-private-property-in-object" to
+your devDependencies to work around this error. This will make this message
+go away.
+
 
 [Back to Top](#table-of-contents)
 
@@ -65,13 +93,13 @@ know some vocab? You should probably contribute.
 
 # Testing Instrutions
 
-class npm run test
+npm run test
 
 [Back to Top](#table-of-contents)
 
 # Known Issues/Errors
 
-not at the moment
+App shows react symbol and all tests currently pass. 
 
 [Back to Top](#table-of-contents)
 
