@@ -1,6 +1,6 @@
 // testing terms json file for 01
 
-import data from './terms.json';
+import data from './data.json';
 
 test('JSON data has required properties and types', () => {
     data.forEach(term => {
@@ -16,8 +16,8 @@ test('JSON data has required properties and types', () => {
         expect(term).toHaveProperty('w3_link');
         expect(term.w3_link).toEqual(expect.any(String));
 
-        expect(term).toHaveProperty('md_link');
-        expect(term.md_link).toEqual(expect.any(String));
+        expect(term).toHaveProperty('mdn_link');
+        expect(term.mdn_link).toEqual(expect.any(String));
 
         expect(term).toHaveProperty('how_to_search');
         expect(term.how_to_search).toEqual(expect.any(String));

@@ -1,0 +1,10 @@
+[
+    {
+        "term": "ls",
+        "formal_definition": "list contents of the working directory",
+        "simple_definition": "show me the files in the folder that I am in",
+        "w3_link": "there is no link for this in w3 schools",
+        "mdn_link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line#basic_built-in_terminal_commands",
+        "how_to_search": "what does ls do in git bash?"
+    }
+]
