@@ -1,6 +1,37 @@
 [
+    
     {
         "term": "Git"
+    },
+    {
+        "term": "git init"
+    },
+    {
+        "term": "git clone"
+    },
+    {
+        "term": "git status"
+    },
+    {
+        "term": "git merge"
+    },
+    {
+        "term": "git log"
+    },
+    {
+        "term": "git remote"
+    },
+    {
+        "term": "git fetch"
+    },
+    {
+        "term": "git reset"
+    },
+    {
+        "term": "git revert"
+    },
+    {
+        "term": "git stash"
     },
     {
         "term": "git add -A"
