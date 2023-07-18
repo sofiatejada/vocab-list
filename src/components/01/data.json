@@ -1,5 +1,35 @@
 [
     {
+        "term": "Git"
+    },
+    {
+        "term": "git add -A"
+    },
+    {
+        "term": "git commit -m 'reason for commit'"
+    },
+    {
+        "term": "git push origin <branch to push to>"
+    },
+    {
+        "term": "git init"
+    },
+    {
+        "term": "git clone"
+    },
+    {
+        "term": "git pull"
+    },
+    {
+        "term": "git branch"
+    },
+    {
+        "term": "git checkout -b <branch name>"
+    },
+    {
+        "term": "git stash"
+    },
+    {
         "term": "ls"
     },
     {
@@ -18,7 +48,10 @@
         "term": "pwd"
     },
     {
-        "term": "Semantic HTML"
+        "term": "HTML"
+    },
+    {
+        "term": "semantic HTML"
     },
     {
         "term": "HTML attributes"
