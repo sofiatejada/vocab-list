@@ -1,0 +1,116 @@
+[
+    {
+        "term": "Web-APIs"
+    },
+    {
+        "term": "this"
+    },
+    {
+        "term": "window.document"
+    },
+    {
+        "term": "document.body"
+    },
+    {
+        "term": "traversing the dom"
+    },
+    {
+        "term": "document"
+    },
+    {
+        "term": "getElementById()"
+    },
+    {
+        "term": "querySelectorAll()"
+    },
+    {
+        "term": "querySelector() by id and by class"
+    },
+    {
+        "term": "setAttribute()"
+    },
+    {
+        "term": "createElement()"
+    },
+    {
+        "term": "appendChild()"
+    },
+    {
+        "term": "confirm()"
+    },
+    {
+        "term": "prompt()"
+    },
+    {
+        "term": "alert()"
+    },
+    {
+        "term": "Element.textContent = ''"
+    },
+    {
+        "term": "setInterval()"
+    },
+    {
+        "term": "clearInterval()"
+    },
+    {
+        "term": "split()"
+    },
+    {
+        "term": "addEventListener('click')"
+    },
+    {
+        "term": "addEventListener('submit')"
+    },
+    {
+        "term": "event"
+    },
+    {
+        "term": "event.preventDefault()"
+    },
+    {
+        "term": "addEventListener('change')"
+    },
+    {
+        "term": "addEventListener('keydown')"
+    },
+    {
+        "term": "addEventListener('keyup')"
+    },
+    {
+        "term": "includes()"
+    },
+    {
+        "term": "Event Bubbling"
+    },
+    {
+        "term": "event.stopPropagation();"
+    },
+    {
+        "term": "data attributes"
+    },
+    {
+        "term": "setAttribute('data-somevalue', 'animate')"
+    },
+    {
+        "term": "element.dataset.somevalue"
+    },
+    {
+        "term": "toLowerCase()"
+    },
+    {
+        "term": "localStorage.setItem('key', value)"
+    },
+    {
+        "term": "localStorage.getItem('key')"
+    },
+    {
+        "term": "setting local storage objects with JSON.stringify(someObject)"
+    },
+    {
+        "term": "getting local storage objects with JSON.parse(localStorage.getItem('key'))"
+    },
+    {
+        "term": "trim()"
+    }
+]
