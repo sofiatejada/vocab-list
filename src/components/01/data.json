@@ -1,10 +1,125 @@
 [
     {
-        "term": "ls",
-        "formal_definition": "list contents of the working directory",
-        "simple_definition": "show me the files in the folder that I am in",
-        "w3_link": "there is no link for this in w3 schools",
-        "mdn_link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line#basic_built-in_terminal_commands",
-        "how_to_search": "what does ls do in git bash?"
+        "term": "ls"
+    },
+    {
+        "term": "mkdir"
+    },
+    {
+        "term": "touch"
+    },
+    {
+        "term": "cd"
+    },
+    {
+        "term": "cd .."
+    },
+    {
+        "term": "pwd"
+    },
+    {
+        "term": "Semantic HTML"
+    },
+    {
+        "term": "HTML attributes"
+    },
+    {
+        "term": "section"
+    },
+    {
+        "term": "src attribute"
+    },
+    {
+        "term": "alt attribute"
+    },
+    {
+        "term": "href attribute"
+    },
+    {
+        "term": "h1 headers and such"
+    },
+    {
+        "term": "div"
+    },
+    {
+        "term": "img"
+    },
+    {
+        "term": "link"
+    },
+    {
+        "term": "CSS"
+    },
+    {
+        "term": "width"
+    },
+    {
+        "term": "height"
+    },
+    {
+        "term": "font-family"
+    },
+    {
+        "term": "line-height"
+    },
+    {
+        "term": "background-color"
+    },
+    {
+        "term": "color"
+    },
+    {
+        "term": "Universal selector CSS"
+    },
+    {
+        "term": "Selecting by HTML element"
+    },
+    {
+        "term": "Selecting by class"
+    },
+    {
+        "term": "Selecting by ID"
+    },
+    {
+        "term": "CSS selectors in general"
+    },
+    {
+        "term": "Pseudo-class selectors"
+    },
+    {
+        "term": "inline"
+    },
+    {
+        "term": "block"
+    },
+    {
+        "term": "display"
+    },
+    {
+        "term": "border"
+    },
+    {
+        "term": "padding"
+    },
+    {
+        "term": "margin"
+    },
+    {
+        "term": "text-align"
+    },
+    {
+        "term": "position (relative, absolute, fixed)"
+    },
+    {
+        "term": "top"
+    },
+    {
+        "term": "right"
+    },
+    {
+        "term": "bottom"
+    },
+    {
+        "term": "left"
     }
 ]
